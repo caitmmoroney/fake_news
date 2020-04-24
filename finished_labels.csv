@@ -1,0 +1,115 @@
+,"Media Bias / Fact Check, label","Allsides, bias_rating","BuzzFeed, leaning",LEFT 1,LEFT 2,LEFT 3,AVG LEFT,LEFT LABEL,RIGHT 1,RIGHT 2,RIGHT 3,AVG RIGHT,RIGHT LABEL
+21stCenturyWire,conspiracy_pseudoscience,,left,NA,,1,1,1,NA,,0,0,0
+ABC News,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+Activist Post,conspiracy_pseudoscience,,left,NA,,1,1,1,NA,,0,0,0
+Addicting Info,left_bias,,left,1,,1,1,1,0,,0,0,0
+Al Jazeera,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Alternet,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+BBC,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Bearing Arms,right_bias,,right,0,,0,0,0,1,,1,1,1
+Bipartisan Report,questionable_source,,left,NA,,1,1,1,NA,,0,0,0
+Birmingham Mail,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Breitbart,questionable_source,Right,right,NA,0,0,0,0,NA,1,1,1,1
+Business Insider,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Buzzfeed,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+CBS News,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+CNBC,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+CNN,left_bias,Lean Left,,1,0.5,,0.75,1,0,0,,0,0
+CNS News,questionable_source,Right,right,NA,0,0,0,0,NA,1,1,1,1
+Chicago Sun-Times,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+Crooks and Liars,left_bias,,left,1,,1,1,1,0,,0,0,0
+DC Gazette,questionable_source,,right,NA,,0,0,0,NA,,1,1,1
+Daily Beast,left_bias,Left,,0.5,1,,0.75,1,0,0,,0,0
+Daily Kos,left_bias,Left,left,0.5,1,1,0.833333333,1,0,0,0,0,0
+Daily Mail,questionable_source,Right,,NA,0,,0,0,NA,1,,1,1
+Daily Signal,right_bias,Right,right,0,0,0,0,0,1,1,1,1,1
+Democracy 21,left_center_bias,,,1,,,1,1,0,,,0,0
+Drudge Report,right_bias,Lean Right,right,0,0,0,0,0,1,0.5,1,0.833333333,1
+Evening Standard,right_center_bias,,,0,,,0,0,0.5,,,0.5,1
+Feministing Blog,left_bias,,left,1,,1,1,1,0,,0,0,0
+FiveThirtyEight,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Foreign Policy,least_biased,,,0,,,0,0,0,,,0,0
+Fortune,right_center_bias,,,0,,,0,0,0.5,,,0.5,1
+Forward Progessives,left_bias,,left,1,,1,1,1,0,,0,0,0
+Fox News,right_bias,Lean Right,right,1,0,0,0.333333333,0,1,0.5,1,0.833333333,1
+France24,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Freedom Daily,questionable_source,,right,NA,,0,0,0,NA,,1,1,1
+FrontPage Magazine,questionable_source,Right,right,NA,0,0,0,0,NA,1,1,1,1
+Fusion,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Hot Air,right_bias,Lean Right,right,0,0,0,0,0,1,0.5,1,0.833333333,1
+Infowars,conspiracy_pseudoscience,Right,right,NA,0,0,0,0,NA,1,1,1,1
+Instapundit,,,right,,,0,0,0,,,1,1,1
+Interpreter Mag,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Investors Business Daily,right_bias,Lean Right,,0,0,,0,0,1,0.5,,0.75,1
+Live Action,conspiracy_pseudoscience,Lean Right,,NA,0,,0,0,NA,0.5,,0.5,1
+MSNBC,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+Media Matters for America,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+Mercury News,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+MotherJones,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+NPR,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+National Review,right_bias,Right,right,0,0,0,0,0,1,1,1,1,1
+New York Daily News,left_center_bias,Left,,0.5,1,,0.75,1,0,0,,0,0
+New York Post,right_center_bias,Right,,0,0,,0,0,1,1,,1,1
+New Yorker,left_bias,Left,,1,1,,1,1,0,0,,0,0
+News Busters,,,right,,,0,0,0,,,1,1,1
+Newsweek,left_bias,Lean Left,,1,0.5,,0.75,1,0,0,,0,0
+PBS,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Palmer Report,left_bias,,left,1,,1,1,1,0,,0,0,0
+Pink News UK,left_bias,,,1,,,1,1,0,,,0,0
+Politico,least_biased,,,0,,,0,0,0,,,0,0
+Politics UK,,Lean Left,,,0.5,,0.5,1,,0,,0,0
+Pravada Report,left_bias,,,1,,,1,1,0,,,0,0
+Prison Planet,conspiracy_pseudoscience,,right,NA,,0,0,0,NA,,1,1,1
+Raw Story,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+Real Clear Politics,right_center_bias,Center,right,0,0,0,0,0,0.5,0,1,0.5,1
+RedState,right_bias,Right,right,0,0,0,0,0,1,1,1,1,1
+Reuters,least_biased,Center,,0,0,,0,0,0,0,,0,0
+RightWingWatch,left_bias,Right,left,1,0,1,0.666666667,1,0,1,0,0.333333333,0
+Russia-Insider,right_center_bias,,,0,,,0,0,0.5,,,0.5,1
+Salon,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+Shadow Proof,left_bias,,left,1,,1,1,1,0,,0,0,0
+SkyNewsPolitics,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+SkyNewsUS,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Slate,left_bias,Left,,1,1,,1,1,0,0,,0,0
+Spiegel,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Sputnik,right_center_bias,,,0,,,0,0,0.5,,,0.5,1
+Talking Points Memo,left_bias,,left,1,,1,1,1,0,,0,0,0
+Tass,right_center_bias,,,0,,,0,0,0.5,,,0.5,1
+Telesur TV,left_bias,,,1,,,1,1,0,,,0,0
+The American Conservative,right_center_bias,Lean Right,right,0,0,0,0,0,0.5,0.5,1,0.666666667,1
+The Atlantic,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+The Conservative Tree House,,,right,,,0,0,0,,,1,1,1
+The D.C. Clothesline,questionable_source,,right,NA,,0,0,0,NA,,1,1,1
+The Daily Caller,right_bias,Right,right,0,0,0,0,0,1,1,1,1,1
+The Daily Express,right_bias,,,0,,,0,0,1,,,1,1
+The Daily Mirror,left_bias,,,1,,,1,1,0,,,0,0
+The Daily Record,left_bias,,,1,,,1,1,0,,,0,0
+The Denver Post,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+The Fiscal Times,right_center_bias,Lean Right,,0,0,,0,0,0.5,0.5,,0.5,1
+The Gateway Pundit,questionable_source,Right,right,NA,0,0,0,0,NA,1,1,1,1
+The Guardian,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+The Hill,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+The Huffington Post,left_bias,Left,,1,1,,1,1,0,0,,0,0
+The Independent,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+The Intercept,left_center_bias,Left,,0.5,1,,0.75,1,0,0,,0,0
+The Irish Times,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+The Moscow Times,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+The New York Times,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+The Political Insider,right_bias,,right,0,,0,0,0,1,,1,1,1
+The Right Scoop,right_bias,,right,0,,0,0,0,1,,1,1,1
+The Sun,right_bias,,,0,,,0,0,1,,,1,1
+The Telegraph,right_center_bias,Lean Right,,0,0,,0,0,0.5,0.5,,0.5,1
+The Verge,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+The Washington Examiner,right_bias,Lean Right,right,0,0,0,0,0,1,0.5,1,0.833333333,1
+TheBlaze,right_bias,,right,0,,0,0,0,1,,1,1,1
+ThinkProgress,left_bias,Left,left,1,1,1,1,1,0,0,0,0,0
+True Activist,questionable_source,,left,NA,,1,1,1,NA,,0,0,0
+True Pundit,conspiracy_pseudoscience,,right,NA,,0,0,0,NA,,1,1,1
+USA Today,left_center_bias,Center,,0.5,0,,0.25,0,0,0,,0,0
+Vox,left_bias,Left,,1,1,,1,1,0,0,,0,0
+Washington Monthly,left_bias,Lean Left,left,1,0.5,1,0.833333333,1,0,0,0,0,0
+Washington Post,left_center_bias,Lean Left,,0.5,0.5,,0.5,1,0,0,,0,0
+Western Journal,right_bias,Right,right,0,0,0,0,0,1,1,1,1,1
+Wings Over Scotland,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
+Yahoo News,left_center_bias,Left,,0.5,1,,0.75,1,0,0,,0,0
+iPolitics,left_center_bias,,,0.5,,,0.5,1,0,,,0,0
