@@ -1,2 +1,2 @@
 # fake_news
-develop a fake news classifier
+Develop a fake news classifier using the NELA-GT-2018 dataset.
